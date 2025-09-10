@@ -21,3 +21,4 @@ Enabled data-backed policy decisions through trend visualization and comparative
 
 Screenshot of the Dashboard
 This is what the dashboard looks like:
+![Dashboard Preview](https://github.com/dhanashreedurpade/JWL-City-Project/blob/main/Snapshot%20of%20Dashboard.png)
